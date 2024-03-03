@@ -1,0 +1,3 @@
+- Resistor discharge per sel sebenarnya bisa cuma pakai 1 18ohm (1W / 2W)
+- Apakah perlu canbus pakai pin screw?
+- Resistor shunt sepertinya perlu lebih banyak lagi (anggaplah 100A yang mengalir, maka shunt 1mOhm menghabiskan daya 10W, terlalu mepet rating 1W per resistor)

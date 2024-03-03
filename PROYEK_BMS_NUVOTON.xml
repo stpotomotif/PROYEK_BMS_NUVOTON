@@ -1,0 +1,4108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\User\Desktop\PROYEK_BMS_NUVOTON\PROYEK_BMS_NUVOTON.kicad_sch</source>
+    <date>17/02/2024 15:10:37</date>
+    <tool>Eeschema 7.0.6</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>PROYEK_BMS_NUVOTON.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>275cb44d-5a25-4a98-b87e-ffbae20aff84</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>915b62b5-defe-4095-b7d5-97fde7c7a7ba</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d9db2e1b-573c-4e17-bcac-d504950ce6e9</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>470b28de-561a-47f2-b1f6-b523ba4a473d</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>68432380-6664-4866-8722-93793fdfded0</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>05525837-8e8e-45b1-a5b3-e2886758aa08</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>38c3dd42-3b2d-4b84-afa5-e5249b5a287a</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fbca0567-c6e0-40b3-b633-3cae3b6379bb</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>67e1b325-ef37-4e88-b460-9130925a4da0</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8870d48c-61af-41a7-a6bd-67614e342a64</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d0395004-c412-403e-a005-1c5a13e55e07</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eb4605df-5678-4cda-8802-3df4ecc14fc6</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>27b9a744-e004-4960-a6d0-ef6a2c963e63</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2684911b-f6dd-4f74-97ac-4392f4111818</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b333a328-2010-465d-90ab-abaf34f73079</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ecfcde4-c942-4149-8422-ccb11f7f8947</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>41313e50-64cb-43ce-9207-4866ba865b4d</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aeeb9ab5-9ffb-4814-a3d3-2bafa66c8711</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b0bb6a1c-546c-4f5a-83ac-8c4189da7630</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>98fb6286-63da-4381-a79d-37cef7286fb0</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f6a35805-7318-4bcc-9134-5b122a0e26bd</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>16addf50-8d10-4512-8539-505ab48cbc87</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1eaaa23c-6ae7-444b-bf6a-71d3c17e387f</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5e54c48d-d147-44a7-8fa1-5d0c46fa2158</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4b228d79-11d8-4b3f-a2ba-fa0d049de500</tstamps>
+    </comp>
+    <comp ref="C26">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>90a14db0-1180-4497-a67d-708e39844aff</tstamps>
+    </comp>
+    <comp ref="C27">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8ad34bdd-b348-4cd2-ab9c-ed366cce40e0</tstamps>
+    </comp>
+    <comp ref="C28">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e9886827-848a-4781-8b46-2eb463505332</tstamps>
+    </comp>
+    <comp ref="C29">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>58eceb4c-1bec-4aa4-a48c-42f25a5c149a</tstamps>
+    </comp>
+    <comp ref="C30">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c0de740e-400a-41ae-8a01-fc761c74e057</tstamps>
+    </comp>
+    <comp ref="C31">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>46c3c91d-cbc0-4beb-883b-cc62c861b03d</tstamps>
+    </comp>
+    <comp ref="C32">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0afb21d5-9b93-49a8-abc1-db16dff3a15d</tstamps>
+    </comp>
+    <comp ref="C33">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a1606c0b-26e8-424a-af3c-4a605f8ef39b</tstamps>
+    </comp>
+    <comp ref="C34">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>328d31e6-45e3-4b34-bcba-9b95b0327782</tstamps>
+    </comp>
+    <comp ref="C35">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4c860dd2-7d3c-498b-97a8-fbb8db61aaf7</tstamps>
+    </comp>
+    <comp ref="C36">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6e33bbe7-5c8f-40cd-809a-d77f59afd486</tstamps>
+    </comp>
+    <comp ref="C37">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d523cbbb-382e-46f1-b7db-19a4c3541c7a</tstamps>
+    </comp>
+    <comp ref="C38">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d15194fe-dd95-409e-a8bd-e1a30a5a5cbd</tstamps>
+    </comp>
+    <comp ref="C39">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d56a0cd8-2e28-4202-bd05-2c4c2d15e907</tstamps>
+    </comp>
+    <comp ref="C40">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ba6e6f2f-a479-4d66-88b3-9a4735f763d3</tstamps>
+    </comp>
+    <comp ref="C41">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>88df9105-3637-46ea-88a7-b811e9ba2798</tstamps>
+    </comp>
+    <comp ref="C42">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e319e6e-3ab1-40da-a94a-5575dd06d4d2</tstamps>
+    </comp>
+    <comp ref="C43">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ab105fa4-d95d-447e-b9af-4388de73ee71</tstamps>
+    </comp>
+    <comp ref="C44">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1a9349a2-7385-499f-9462-48ed2afef711</tstamps>
+    </comp>
+    <comp ref="C45">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cae9c852-759e-46c9-a07a-c295f3ac0219</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b99165ac-78ff-4fc6-acee-3c336ee0a7de</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>26c26a54-57e9-4942-b903-c8e60974e5ec</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>761edc86-2f34-473a-ba06-3fdcdfc6102f</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e56d83f8-e4f8-45c6-9c31-44c1b77ca6b3</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1c455d2c-9939-4779-82ad-3e01b410c3e6</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2bb67f63-c227-439d-90fe-227c3c288bfa</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1dd7496a-ad0a-4790-93e7-e99bc4ddb415</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4da47d09-2505-4792-a9f5-f152076a7a2a</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cc170892-e252-4c8f-9b08-b1c14bab945e</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>46d82c1f-b2e6-4f30-9749-779dd2d228f0</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9919ce2b-c4ff-4e5c-9d1e-ff7a0b4c53d7</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>52605c43-93fb-44f6-9305-e5114cec2f86</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1b994d05-ed07-47c5-b3a3-a20c28a8cdd7</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8092d6ec-9c90-4a9b-b066-a18522d73785</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2b656857-58df-4863-940e-e26af10c512e</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d8de113b-eff8-42c7-98a7-4beb7006bbec</tstamps>
+    </comp>
+    <comp ref="D17">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>08f493e0-a191-4804-b24c-62b35fce7042</tstamps>
+    </comp>
+    <comp ref="D18">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>40ccd33b-1de3-4c62-9005-013dd0f42c9c</tstamps>
+    </comp>
+    <comp ref="D19">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>89b3a361-3a8d-48fa-81c7-1bb2fdd721f0</tstamps>
+    </comp>
+    <comp ref="D20">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7a3fc672-31b7-4f3b-9384-61bd7d120924</tstamps>
+    </comp>
+    <comp ref="D21">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ac462b3f-9cfd-40f6-ae5d-77a8d020470c</tstamps>
+    </comp>
+    <comp ref="D22">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>45578677-751a-46d2-9db4-b3fd42d3b775</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x25</value>
+      <libsource lib="Connector_Generic" part="Conn_01x25" description="Generic connector, single row, 01x25, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x25, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9614a3c7-fa9b-4e00-9ff3-3125b6aa5332</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x25</value>
+      <libsource lib="Connector_Generic" part="Conn_01x25" description="Generic connector, single row, 01x25, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x25, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f8de2235-082d-402c-92ce-d249b5459bff</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>Q_NMOS_GSD</value>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="N-MOSFET transistor, gate/source/drain"/>
+      <property name="ki_keywords" value="transistor NMOS N-MOS N-MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>98489765-11b1-44f6-be4f-e535836aa75f</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>Q_NMOS_GSD</value>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="N-MOSFET transistor, gate/source/drain"/>
+      <property name="ki_keywords" value="transistor NMOS N-MOS N-MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ac35aeaa-285c-401b-a5af-b33ed45c7005</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>Q_NMOS_GSD</value>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="N-MOSFET transistor, gate/source/drain"/>
+      <property name="ki_keywords" value="transistor NMOS N-MOS N-MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>211a93e8-6dc2-4221-ae50-765bb5d16307</tstamps>
+    </comp>
+    <comp ref="Q4">
+      <value>Q_NMOS_GSD</value>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="N-MOSFET transistor, gate/source/drain"/>
+      <property name="ki_keywords" value="transistor NMOS N-MOS N-MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>43a05cd5-1949-439e-a00e-36255cc8dae0</tstamps>
+    </comp>
+    <comp ref="Q5">
+      <value>Q_NMOS_GSD</value>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="N-MOSFET transistor, gate/source/drain"/>
+      <property name="ki_keywords" value="transistor NMOS N-MOS N-MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5841c04f-899f-4e9e-bc16-fc19d521fb13</tstamps>
+    </comp>
+    <comp ref="Q6">
+      <value>Q_NMOS_GSD</value>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="N-MOSFET transistor, gate/source/drain"/>
+      <property name="ki_keywords" value="transistor NMOS N-MOS N-MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f1b8b849-814b-4e7e-a30a-10d1823fb238</tstamps>
+    </comp>
+    <comp ref="Q7">
+      <value>Q_NMOS_GSD</value>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="N-MOSFET transistor, gate/source/drain"/>
+      <property name="ki_keywords" value="transistor NMOS N-MOS N-MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0ba22dee-75cd-42f0-9c88-7fd7224c6e8c</tstamps>
+    </comp>
+    <comp ref="Q8">
+      <value>Q_NMOS_GSD</value>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="N-MOSFET transistor, gate/source/drain"/>
+      <property name="ki_keywords" value="transistor NMOS N-MOS N-MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f13f497-47be-44b3-8621-58d435ca7215</tstamps>
+    </comp>
+    <comp ref="Q9">
+      <value>Q_NMOS_GSD</value>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="N-MOSFET transistor, gate/source/drain"/>
+      <property name="ki_keywords" value="transistor NMOS N-MOS N-MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d589cbf1-d77d-4ce1-8b60-fecbe09e5640</tstamps>
+    </comp>
+    <comp ref="Q10">
+      <value>Q_NMOS_GSD</value>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="N-MOSFET transistor, gate/source/drain"/>
+      <property name="ki_keywords" value="transistor NMOS N-MOS N-MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fc3a7b02-9968-4aa0-aa88-c7cb1c0e5b3f</tstamps>
+    </comp>
+    <comp ref="Q11">
+      <value>Q_NMOS_GSD</value>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="N-MOSFET transistor, gate/source/drain"/>
+      <property name="ki_keywords" value="transistor NMOS N-MOS N-MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d7e7448-bffc-42ec-ab77-e83dbacec7ae</tstamps>
+    </comp>
+    <comp ref="Q12">
+      <value>Q_NMOS_GSD</value>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="N-MOSFET transistor, gate/source/drain"/>
+      <property name="ki_keywords" value="transistor NMOS N-MOS N-MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a486cf43-672e-4220-a637-ac28eabceaa6</tstamps>
+    </comp>
+    <comp ref="Q13">
+      <value>Q_NMOS_GSD</value>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="N-MOSFET transistor, gate/source/drain"/>
+      <property name="ki_keywords" value="transistor NMOS N-MOS N-MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3c591bae-2105-4d44-b55d-807a32a70082</tstamps>
+    </comp>
+    <comp ref="Q14">
+      <value>Q_NMOS_GSD</value>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="N-MOSFET transistor, gate/source/drain"/>
+      <property name="ki_keywords" value="transistor NMOS N-MOS N-MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7bee0edd-3df7-4b7a-ad06-3d34c3721856</tstamps>
+    </comp>
+    <comp ref="Q15">
+      <value>Q_NMOS_GSD</value>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="N-MOSFET transistor, gate/source/drain"/>
+      <property name="ki_keywords" value="transistor NMOS N-MOS N-MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a80aaacd-cb01-4731-8d7e-ef19141a2750</tstamps>
+    </comp>
+    <comp ref="Q16">
+      <value>Q_NMOS_GSD</value>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="N-MOSFET transistor, gate/source/drain"/>
+      <property name="ki_keywords" value="transistor NMOS N-MOS N-MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9e431c74-f2bf-4bf8-93a6-dbcef2f58220</tstamps>
+    </comp>
+    <comp ref="Q17">
+      <value>Q_NMOS_GSD</value>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="N-MOSFET transistor, gate/source/drain"/>
+      <property name="ki_keywords" value="transistor NMOS N-MOS N-MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c494b7d3-00b6-46c8-b036-a2ec615fbf7d</tstamps>
+    </comp>
+    <comp ref="Q18">
+      <value>Q_NMOS_GSD</value>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="N-MOSFET transistor, gate/source/drain"/>
+      <property name="ki_keywords" value="transistor NMOS N-MOS N-MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1be5f946-6e9e-4142-baf9-38cf0c3717d6</tstamps>
+    </comp>
+    <comp ref="Q19">
+      <value>Q_NMOS_GSD</value>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="N-MOSFET transistor, gate/source/drain"/>
+      <property name="ki_keywords" value="transistor NMOS N-MOS N-MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fd0c43bb-d93c-4299-a28a-41d1b074168d</tstamps>
+    </comp>
+    <comp ref="Q20">
+      <value>Q_NMOS_GSD</value>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="N-MOSFET transistor, gate/source/drain"/>
+      <property name="ki_keywords" value="transistor NMOS N-MOS N-MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>08023271-a0c2-405b-b81e-1b61fa8bed20</tstamps>
+    </comp>
+    <comp ref="Q21">
+      <value>Q_NMOS_GSD</value>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="N-MOSFET transistor, gate/source/drain"/>
+      <property name="ki_keywords" value="transistor NMOS N-MOS N-MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b9754a1b-14d5-4ca4-a7ad-32d3d00aeb4a</tstamps>
+    </comp>
+    <comp ref="Q22">
+      <value>Q_NMOS_GSD</value>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="N-MOSFET transistor, gate/source/drain"/>
+      <property name="ki_keywords" value="transistor NMOS N-MOS N-MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dfddb1cb-f8f9-4e18-ad58-678d49207b43</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>R</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>35d9cea6-189d-4c98-8b45-f70d402a4a99</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>R</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>58321880-4813-4cda-b73f-889941e8d056</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>R</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9734476a-b27a-4c91-b3af-e0c56eac020e</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>R</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c3e2ac49-cd1c-4b11-a804-875f3eeb3db8</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>R</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>de06b345-a4bc-4554-a9c6-8b414cccfa67</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>R</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>15521478-5cce-41d0-89ee-bdc21ea9dc5b</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>R</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f042539-0d47-4c24-91d4-cefd49395f20</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>R</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2e87a0cb-82a2-4c82-986d-4bb5f1d46008</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>R</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ad4225ff-fe02-4975-b989-e9e3ebe32a33</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>R</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dd019c33-171c-4ba8-922e-bfa9078b64ff</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>R</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>546395c2-ce29-4e5a-a974-4c59d079c565</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>R</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>778cc06e-4a31-42b1-80d0-0dcabc405e42</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>R</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5de27a43-22fd-4c71-bf38-a30bf1ea0053</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>R</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8558f222-1128-4bf0-96f8-b7620da9d85c</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>R</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b5d5e28d-ee7a-47ea-b153-c007afafb613</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>R</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e645c34e-2eb0-43c7-892c-4dd3aaf68c96</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>R</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3726afb9-eff6-42e8-8215-34e48a299754</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>R</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6875f507-040e-4ed8-8b13-18fcc9abe1b3</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>R</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>16b6bfe9-2125-4bd6-924a-21cecaecaec5</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>R</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>486958a1-6c28-4f56-a74f-b92ae66f3044</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>R</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ebbed630-6da8-4bdf-9e6d-6746c0093c0a</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>R</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>54fdd40d-1338-47f1-a1f9-12851c730831</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>R</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7a77ee63-2b3e-4964-86ca-ac0aac7c5683</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>R</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3f2868e4-e350-4df8-b4ee-76bf1fd552a0</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b3a552e7-6846-424e-a404-472dc2245395</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>66dce316-8199-43f1-8087-f91619cb210d</tstamps>
+    </comp>
+    <comp ref="R27">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9f52d244-be8b-4cfb-b33e-4c86e6ab92fe</tstamps>
+    </comp>
+    <comp ref="R28">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fc172ca0-91a3-442a-bcc3-ab3d4ed4b6e5</tstamps>
+    </comp>
+    <comp ref="R29">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>35bb7835-94ac-4a3a-b31d-97ec63086c8c</tstamps>
+    </comp>
+    <comp ref="R30">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d9d937dc-8e71-4ff2-afb4-46059f42ff0d</tstamps>
+    </comp>
+    <comp ref="R31">
+      <value>36</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>160a03bd-c78c-4af3-a763-46c8041ff59a</tstamps>
+    </comp>
+    <comp ref="R32">
+      <value>36</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c5e446ca-2d0f-4324-8f08-9abcdf6c2862</tstamps>
+    </comp>
+    <comp ref="R33">
+      <value>36</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>63449172-1742-4e2d-9f39-1dafeab74bb0</tstamps>
+    </comp>
+    <comp ref="R34">
+      <value>36</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9e3e6ce9-a7d6-459c-93ec-57a2f9ceb543</tstamps>
+    </comp>
+    <comp ref="R35">
+      <value>36</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f027edce-d15d-484a-bde5-60349f122dab</tstamps>
+    </comp>
+    <comp ref="R36">
+      <value>36</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8c18f39d-3e4a-4120-850c-826dee17caad</tstamps>
+    </comp>
+    <comp ref="R37">
+      <value>36</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b3020225-4b5f-4107-a624-32096d03c30a</tstamps>
+    </comp>
+    <comp ref="R38">
+      <value>36</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fb5bcb4b-2f83-462d-afa0-5721f7f447ab</tstamps>
+    </comp>
+    <comp ref="R39">
+      <value>36</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>56f1bb9c-a56a-444f-aa34-5919dd3b40c3</tstamps>
+    </comp>
+    <comp ref="R40">
+      <value>36</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>57b42073-6cea-435b-810f-db4d302a4aec</tstamps>
+    </comp>
+    <comp ref="R41">
+      <value>36</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6efe37f0-801c-4451-87f9-e89346d7917f</tstamps>
+    </comp>
+    <comp ref="R42">
+      <value>36</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f4c9c003-c16a-4dc2-bbe5-ff98c9668910</tstamps>
+    </comp>
+    <comp ref="R43">
+      <value>r=R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Sim.Device">R</field>
+        <field name="Sim.Params">r=R</field>
+        <field name="Sim.Pins">1=+ 2=-</field>
+        <field name="Sim.Type">=</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sim.Device" value="R"/>
+      <property name="Sim.Type" value="="/>
+      <property name="Sim.Params" value="r=R"/>
+      <property name="Sim.Pins" value="1=+ 2=-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b7082872-9f01-4e85-96ed-07298e500767</tstamps>
+    </comp>
+    <comp ref="R44">
+      <value>r=R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Sim.Device">R</field>
+        <field name="Sim.Params">r=R</field>
+        <field name="Sim.Pins">1=+ 2=-</field>
+        <field name="Sim.Type">=</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sim.Device" value="R"/>
+      <property name="Sim.Type" value="="/>
+      <property name="Sim.Params" value="r=R"/>
+      <property name="Sim.Pins" value="1=+ 2=-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7a47d782-2890-4f03-a7a5-37b518b118b2</tstamps>
+    </comp>
+    <comp ref="R45">
+      <value>r=R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Sim.Device">R</field>
+        <field name="Sim.Params">r=R</field>
+        <field name="Sim.Pins">1=+ 2=-</field>
+        <field name="Sim.Type">=</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sim.Device" value="R"/>
+      <property name="Sim.Type" value="="/>
+      <property name="Sim.Params" value="r=R"/>
+      <property name="Sim.Pins" value="1=+ 2=-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>448e988f-400a-4961-befb-4156ded8d7cf</tstamps>
+    </comp>
+    <comp ref="R46">
+      <value>r=R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Sim.Device">R</field>
+        <field name="Sim.Params">r=R</field>
+        <field name="Sim.Pins">1=+ 2=-</field>
+        <field name="Sim.Type">=</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sim.Device" value="R"/>
+      <property name="Sim.Type" value="="/>
+      <property name="Sim.Params" value="r=R"/>
+      <property name="Sim.Pins" value="1=+ 2=-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>64f79ae6-5e8b-4ae3-83e0-e7270b5c014f</tstamps>
+    </comp>
+    <comp ref="R47">
+      <value>r=R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Sim.Device">R</field>
+        <field name="Sim.Params">r=R</field>
+        <field name="Sim.Pins">1=+ 2=-</field>
+        <field name="Sim.Type">=</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sim.Device" value="R"/>
+      <property name="Sim.Type" value="="/>
+      <property name="Sim.Params" value="r=R"/>
+      <property name="Sim.Pins" value="1=+ 2=-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>97ed23ef-424a-452f-8ea5-455b0ee350fb</tstamps>
+    </comp>
+    <comp ref="R48">
+      <value>r=R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Sim.Device">R</field>
+        <field name="Sim.Params">r=R</field>
+        <field name="Sim.Pins">1=+ 2=-</field>
+        <field name="Sim.Type">=</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sim.Device" value="R"/>
+      <property name="Sim.Type" value="="/>
+      <property name="Sim.Params" value="r=R"/>
+      <property name="Sim.Pins" value="1=+ 2=-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>169395f6-5bde-4ebe-8624-fec0c8d7aff3</tstamps>
+    </comp>
+    <comp ref="R49">
+      <value>r=R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Sim.Device">R</field>
+        <field name="Sim.Params">r=R</field>
+        <field name="Sim.Pins">1=+ 2=-</field>
+        <field name="Sim.Type">=</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sim.Device" value="R"/>
+      <property name="Sim.Type" value="="/>
+      <property name="Sim.Params" value="r=R"/>
+      <property name="Sim.Pins" value="1=+ 2=-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e1bbebfe-ef84-4b70-8d96-4b55edae3c81</tstamps>
+    </comp>
+    <comp ref="R50">
+      <value>r=R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Sim.Device">R</field>
+        <field name="Sim.Params">r=R</field>
+        <field name="Sim.Pins">1=+ 2=-</field>
+        <field name="Sim.Type">=</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sim.Device" value="R"/>
+      <property name="Sim.Type" value="="/>
+      <property name="Sim.Params" value="r=R"/>
+      <property name="Sim.Pins" value="1=+ 2=-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9ac97ff9-1a88-476a-a87f-ea4a3f3eb311</tstamps>
+    </comp>
+    <comp ref="R51">
+      <value>r=R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Sim.Device">R</field>
+        <field name="Sim.Params">r=R</field>
+        <field name="Sim.Pins">1=+ 2=-</field>
+        <field name="Sim.Type">=</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sim.Device" value="R"/>
+      <property name="Sim.Type" value="="/>
+      <property name="Sim.Params" value="r=R"/>
+      <property name="Sim.Pins" value="1=+ 2=-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>282bdc08-0697-42e1-a0e0-21997c5f96fe</tstamps>
+    </comp>
+    <comp ref="R52">
+      <value>r=R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Sim.Device">R</field>
+        <field name="Sim.Params">r=R</field>
+        <field name="Sim.Pins">1=+ 2=-</field>
+        <field name="Sim.Type">=</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sim.Device" value="R"/>
+      <property name="Sim.Type" value="="/>
+      <property name="Sim.Params" value="r=R"/>
+      <property name="Sim.Pins" value="1=+ 2=-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ebdb6138-03c3-4bf9-952d-53b07413d436</tstamps>
+    </comp>
+    <comp ref="R53">
+      <value>r=R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Sim.Device">R</field>
+        <field name="Sim.Params">r=R</field>
+        <field name="Sim.Pins">1=+ 2=-</field>
+        <field name="Sim.Type">=</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sim.Device" value="R"/>
+      <property name="Sim.Type" value="="/>
+      <property name="Sim.Params" value="r=R"/>
+      <property name="Sim.Pins" value="1=+ 2=-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aaecc2f5-9c12-4c68-ad1f-41b14727eab9</tstamps>
+    </comp>
+    <comp ref="R54">
+      <value>r=R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Sim.Device">R</field>
+        <field name="Sim.Params">r=R</field>
+        <field name="Sim.Pins">1=+ 2=-</field>
+        <field name="Sim.Type">=</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sim.Device" value="R"/>
+      <property name="Sim.Type" value="="/>
+      <property name="Sim.Params" value="r=R"/>
+      <property name="Sim.Pins" value="1=+ 2=-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8dfeaf7c-8600-4ac9-b175-4ed39351be43</tstamps>
+    </comp>
+    <comp ref="R55">
+      <value>r=R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Sim.Device">R</field>
+        <field name="Sim.Params">r=R</field>
+        <field name="Sim.Pins">1=+ 2=-</field>
+        <field name="Sim.Type">=</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sim.Device" value="R"/>
+      <property name="Sim.Type" value="="/>
+      <property name="Sim.Params" value="r=R"/>
+      <property name="Sim.Pins" value="1=+ 2=-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d0a462a9-b8dd-4a1c-a803-478721da295d</tstamps>
+    </comp>
+    <comp ref="R56">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>689ffa19-a029-4db8-813a-6dc7fccd0af6</tstamps>
+    </comp>
+    <comp ref="R57">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f60fab2c-1646-4bfb-864d-5972774c718a</tstamps>
+    </comp>
+    <comp ref="R58">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>96981dde-137f-4856-b562-4a14e1c62107</tstamps>
+    </comp>
+    <comp ref="R59">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4ac14074-eaf6-4a3e-9a91-756d7c506e2c</tstamps>
+    </comp>
+    <comp ref="R60">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>372678fa-517a-480b-bd16-8949bbbc246f</tstamps>
+    </comp>
+    <comp ref="R61">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>89e1171f-d007-413d-9bf2-6173048e15c7</tstamps>
+    </comp>
+    <comp ref="R62">
+      <value>36</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>661347cf-f6f5-4330-80df-7329a67505c7</tstamps>
+    </comp>
+    <comp ref="R63">
+      <value>36</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4866137b-f49c-43ae-bf86-ffaefb77a4ee</tstamps>
+    </comp>
+    <comp ref="R64">
+      <value>36</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>061d12dc-2d12-4dec-8fce-8a25d273218f</tstamps>
+    </comp>
+    <comp ref="R65">
+      <value>36</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>907e1ac7-6736-4940-b8ac-d049ba9505e5</tstamps>
+    </comp>
+    <comp ref="R66">
+      <value>36</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5a88c81e-9ee8-4d37-abcc-c913c935be65</tstamps>
+    </comp>
+    <comp ref="R67">
+      <value>36</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c4cc2d1-1528-4d12-bd82-86e92c22c1d8</tstamps>
+    </comp>
+    <comp ref="R68">
+      <value>36</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>73ae198f-492f-4717-a7af-b40b42f4119c</tstamps>
+    </comp>
+    <comp ref="R69">
+      <value>36</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>576cd64e-eb92-4719-b026-c17ab9c22a3b</tstamps>
+    </comp>
+    <comp ref="R70">
+      <value>36</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>07d69c16-e0be-4a14-b610-7a86e5a99b88</tstamps>
+    </comp>
+    <comp ref="R71">
+      <value>36</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2761a7ec-56f6-4d59-b8ac-3f0dd8bc409f</tstamps>
+    </comp>
+    <comp ref="R72">
+      <value>36</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9211d412-9c8c-4d94-9532-3f919f0be8a9</tstamps>
+    </comp>
+    <comp ref="R73">
+      <value>36</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bbb98345-c758-4511-b9e7-e1d8febe5b00</tstamps>
+    </comp>
+    <comp ref="R74">
+      <value>r=R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Sim.Device">R</field>
+        <field name="Sim.Params">r=R</field>
+        <field name="Sim.Pins">1=+ 2=-</field>
+        <field name="Sim.Type">=</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sim.Device" value="R"/>
+      <property name="Sim.Type" value="="/>
+      <property name="Sim.Params" value="r=R"/>
+      <property name="Sim.Pins" value="1=+ 2=-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f7096f77-32d7-4604-9c54-f868b18ba4cb</tstamps>
+    </comp>
+    <comp ref="R75">
+      <value>r=R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Sim.Device">R</field>
+        <field name="Sim.Params">r=R</field>
+        <field name="Sim.Pins">1=+ 2=-</field>
+        <field name="Sim.Type">=</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sim.Device" value="R"/>
+      <property name="Sim.Type" value="="/>
+      <property name="Sim.Params" value="r=R"/>
+      <property name="Sim.Pins" value="1=+ 2=-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a4150333-30c7-4402-91b0-862cad7d64e1</tstamps>
+    </comp>
+    <comp ref="R76">
+      <value>r=R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Sim.Device">R</field>
+        <field name="Sim.Params">r=R</field>
+        <field name="Sim.Pins">1=+ 2=-</field>
+        <field name="Sim.Type">=</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sim.Device" value="R"/>
+      <property name="Sim.Type" value="="/>
+      <property name="Sim.Params" value="r=R"/>
+      <property name="Sim.Pins" value="1=+ 2=-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>24b2b42f-5ffc-4c89-b6b2-a6a3d3c62a84</tstamps>
+    </comp>
+    <comp ref="R77">
+      <value>r=R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Sim.Device">R</field>
+        <field name="Sim.Params">r=R</field>
+        <field name="Sim.Pins">1=+ 2=-</field>
+        <field name="Sim.Type">=</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sim.Device" value="R"/>
+      <property name="Sim.Type" value="="/>
+      <property name="Sim.Params" value="r=R"/>
+      <property name="Sim.Pins" value="1=+ 2=-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1b93e077-1ebb-4450-ada3-db6848a5ee03</tstamps>
+    </comp>
+    <comp ref="R78">
+      <value>r=R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Sim.Device">R</field>
+        <field name="Sim.Params">r=R</field>
+        <field name="Sim.Pins">1=+ 2=-</field>
+        <field name="Sim.Type">=</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sim.Device" value="R"/>
+      <property name="Sim.Type" value="="/>
+      <property name="Sim.Params" value="r=R"/>
+      <property name="Sim.Pins" value="1=+ 2=-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4bf11aef-bc09-40d7-84ac-46abaf33358c</tstamps>
+    </comp>
+    <comp ref="R79">
+      <value>r=R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Sim.Device">R</field>
+        <field name="Sim.Params">r=R</field>
+        <field name="Sim.Pins">1=+ 2=-</field>
+        <field name="Sim.Type">=</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sim.Device" value="R"/>
+      <property name="Sim.Type" value="="/>
+      <property name="Sim.Params" value="r=R"/>
+      <property name="Sim.Pins" value="1=+ 2=-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b53d4000-9c36-474a-bd25-fcd1ac59346f</tstamps>
+    </comp>
+    <comp ref="R80">
+      <value>r=R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Sim.Device">R</field>
+        <field name="Sim.Params">r=R</field>
+        <field name="Sim.Pins">1=+ 2=-</field>
+        <field name="Sim.Type">=</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sim.Device" value="R"/>
+      <property name="Sim.Type" value="="/>
+      <property name="Sim.Params" value="r=R"/>
+      <property name="Sim.Pins" value="1=+ 2=-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7b62b36a-9b54-4266-8635-940482c91fd2</tstamps>
+    </comp>
+    <comp ref="R81">
+      <value>r=R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Sim.Device">R</field>
+        <field name="Sim.Params">r=R</field>
+        <field name="Sim.Pins">1=+ 2=-</field>
+        <field name="Sim.Type">=</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sim.Device" value="R"/>
+      <property name="Sim.Type" value="="/>
+      <property name="Sim.Params" value="r=R"/>
+      <property name="Sim.Pins" value="1=+ 2=-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aec8e5dd-c144-4cb7-a62a-dece23fa21aa</tstamps>
+    </comp>
+    <comp ref="R82">
+      <value>r=R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Sim.Device">R</field>
+        <field name="Sim.Params">r=R</field>
+        <field name="Sim.Pins">1=+ 2=-</field>
+        <field name="Sim.Type">=</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sim.Device" value="R"/>
+      <property name="Sim.Type" value="="/>
+      <property name="Sim.Params" value="r=R"/>
+      <property name="Sim.Pins" value="1=+ 2=-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>05bdd4ec-3582-460a-bf97-8e386ea262b8</tstamps>
+    </comp>
+    <comp ref="R83">
+      <value>r=R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Sim.Device">R</field>
+        <field name="Sim.Params">r=R</field>
+        <field name="Sim.Pins">1=+ 2=-</field>
+        <field name="Sim.Type">=</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sim.Device" value="R"/>
+      <property name="Sim.Type" value="="/>
+      <property name="Sim.Params" value="r=R"/>
+      <property name="Sim.Pins" value="1=+ 2=-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>59b2b975-ebf2-48ee-8b8b-237246054773</tstamps>
+    </comp>
+    <comp ref="R84">
+      <value>r=R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Sim.Device">R</field>
+        <field name="Sim.Params">r=R</field>
+        <field name="Sim.Pins">1=+ 2=-</field>
+        <field name="Sim.Type">=</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sim.Device" value="R"/>
+      <property name="Sim.Type" value="="/>
+      <property name="Sim.Params" value="r=R"/>
+      <property name="Sim.Pins" value="1=+ 2=-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>faf1acac-39ca-4a03-a3ba-7ea9a25047fb</tstamps>
+    </comp>
+    <comp ref="R85">
+      <value>r=R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Sim.Device">R</field>
+        <field name="Sim.Params">r=R</field>
+        <field name="Sim.Pins">1=+ 2=-</field>
+        <field name="Sim.Type">=</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sim.Device" value="R"/>
+      <property name="Sim.Type" value="="/>
+      <property name="Sim.Params" value="r=R"/>
+      <property name="Sim.Pins" value="1=+ 2=-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>38b4e385-d6d5-4b31-b7b6-cb88f5f39a1d</tstamps>
+    </comp>
+    <comp ref="R86">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d33c62f3-acdc-4042-81c1-010c0cc30b59</tstamps>
+    </comp>
+    <comp ref="R87">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f2f1eb0c-df70-4949-bff0-2742318d2c50</tstamps>
+    </comp>
+    <comp ref="R88">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>94ece8a9-a5b5-4d0f-bccf-6c23c8ff4244</tstamps>
+    </comp>
+    <comp ref="R89">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>800c314f-42a0-490d-b80c-01eea0884180</tstamps>
+    </comp>
+    <comp ref="R90">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8b13b3d5-a83c-4e94-a43d-0ff0d109547e</tstamps>
+    </comp>
+    <comp ref="R91">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>15aac913-c161-40ca-bbf4-c113f09c105a</tstamps>
+    </comp>
+    <comp ref="R92">
+      <value>36</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d7037cd0-6c1c-44b8-ad81-09cb43620bed</tstamps>
+    </comp>
+    <comp ref="R93">
+      <value>36</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5f1d3129-f0bf-4033-a9f2-930a424c1355</tstamps>
+    </comp>
+    <comp ref="R94">
+      <value>36</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>056c7242-8a11-4ccc-8f23-25c5cd50016e</tstamps>
+    </comp>
+    <comp ref="R95">
+      <value>36</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ea1af7f2-0113-43c9-8716-9ec010796e4e</tstamps>
+    </comp>
+    <comp ref="R96">
+      <value>36</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>031f992b-4786-4d3e-a674-a2aae2009787</tstamps>
+    </comp>
+    <comp ref="R97">
+      <value>36</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>56eef7b1-35ee-48ea-bd19-7a6268808366</tstamps>
+    </comp>
+    <comp ref="R98">
+      <value>36</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d9337b9-af5b-46ca-aaa7-cf317eb605ae</tstamps>
+    </comp>
+    <comp ref="R99">
+      <value>36</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7b26bba4-0720-417a-bb4f-6551030366e2</tstamps>
+    </comp>
+    <comp ref="R100">
+      <value>36</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7533e1d2-1c20-4e2d-bc86-e464b6f67741</tstamps>
+    </comp>
+    <comp ref="R101">
+      <value>36</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>27c70c6c-8fb0-45b3-96a8-5187152a6ee8</tstamps>
+    </comp>
+    <comp ref="R102">
+      <value>36</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a6a45d48-3066-4f64-9851-8b04bd2b32e9</tstamps>
+    </comp>
+    <comp ref="R103">
+      <value>36</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>17e7a6a8-0ce7-44c2-9b3c-e8b924d1638c</tstamps>
+    </comp>
+    <comp ref="R104">
+      <value>r=R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Sim.Device">R</field>
+        <field name="Sim.Params">r=R</field>
+        <field name="Sim.Pins">1=+ 2=-</field>
+        <field name="Sim.Type">=</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sim.Device" value="R"/>
+      <property name="Sim.Type" value="="/>
+      <property name="Sim.Params" value="r=R"/>
+      <property name="Sim.Pins" value="1=+ 2=-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9cd2fc7e-ee3c-4618-a1aa-7fec82f5dd2f</tstamps>
+    </comp>
+    <comp ref="R105">
+      <value>r=R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Sim.Device">R</field>
+        <field name="Sim.Params">r=R</field>
+        <field name="Sim.Pins">1=+ 2=-</field>
+        <field name="Sim.Type">=</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sim.Device" value="R"/>
+      <property name="Sim.Type" value="="/>
+      <property name="Sim.Params" value="r=R"/>
+      <property name="Sim.Pins" value="1=+ 2=-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4fa25e24-d120-4562-8587-86abe5dce30f</tstamps>
+    </comp>
+    <comp ref="R106">
+      <value>r=R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Sim.Device">R</field>
+        <field name="Sim.Params">r=R</field>
+        <field name="Sim.Pins">1=+ 2=-</field>
+        <field name="Sim.Type">=</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sim.Device" value="R"/>
+      <property name="Sim.Type" value="="/>
+      <property name="Sim.Params" value="r=R"/>
+      <property name="Sim.Pins" value="1=+ 2=-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f74e0b29-bc53-4a0c-8f44-2d7ad0a4a102</tstamps>
+    </comp>
+    <comp ref="R107">
+      <value>r=R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Sim.Device">R</field>
+        <field name="Sim.Params">r=R</field>
+        <field name="Sim.Pins">1=+ 2=-</field>
+        <field name="Sim.Type">=</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sim.Device" value="R"/>
+      <property name="Sim.Type" value="="/>
+      <property name="Sim.Params" value="r=R"/>
+      <property name="Sim.Pins" value="1=+ 2=-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>48069063-5624-4cfa-814b-729d74501d4e</tstamps>
+    </comp>
+    <comp ref="R108">
+      <value>r=R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Sim.Device">R</field>
+        <field name="Sim.Params">r=R</field>
+        <field name="Sim.Pins">1=+ 2=-</field>
+        <field name="Sim.Type">=</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sim.Device" value="R"/>
+      <property name="Sim.Type" value="="/>
+      <property name="Sim.Params" value="r=R"/>
+      <property name="Sim.Pins" value="1=+ 2=-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fc0d0f34-075d-4f84-9136-de5e42e080e2</tstamps>
+    </comp>
+    <comp ref="R109">
+      <value>r=R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Sim.Device">R</field>
+        <field name="Sim.Params">r=R</field>
+        <field name="Sim.Pins">1=+ 2=-</field>
+        <field name="Sim.Type">=</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sim.Device" value="R"/>
+      <property name="Sim.Type" value="="/>
+      <property name="Sim.Params" value="r=R"/>
+      <property name="Sim.Pins" value="1=+ 2=-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>03fe586a-da30-4d59-ac1e-8a7763adcc30</tstamps>
+    </comp>
+    <comp ref="R110">
+      <value>r=R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Sim.Device">R</field>
+        <field name="Sim.Params">r=R</field>
+        <field name="Sim.Pins">1=+ 2=-</field>
+        <field name="Sim.Type">=</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sim.Device" value="R"/>
+      <property name="Sim.Type" value="="/>
+      <property name="Sim.Params" value="r=R"/>
+      <property name="Sim.Pins" value="1=+ 2=-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a5dd9785-1f8d-4266-af52-ec64b65723cc</tstamps>
+    </comp>
+    <comp ref="R111">
+      <value>r=R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Sim.Device">R</field>
+        <field name="Sim.Params">r=R</field>
+        <field name="Sim.Pins">1=+ 2=-</field>
+        <field name="Sim.Type">=</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sim.Device" value="R"/>
+      <property name="Sim.Type" value="="/>
+      <property name="Sim.Params" value="r=R"/>
+      <property name="Sim.Pins" value="1=+ 2=-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>10a83b5a-ba99-40d6-9878-f086f1e02f73</tstamps>
+    </comp>
+    <comp ref="R112">
+      <value>r=R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Sim.Device">R</field>
+        <field name="Sim.Params">r=R</field>
+        <field name="Sim.Pins">1=+ 2=-</field>
+        <field name="Sim.Type">=</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sim.Device" value="R"/>
+      <property name="Sim.Type" value="="/>
+      <property name="Sim.Params" value="r=R"/>
+      <property name="Sim.Pins" value="1=+ 2=-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>336f4fa2-3b2f-4ec6-804e-02a8bb1d4458</tstamps>
+    </comp>
+    <comp ref="R113">
+      <value>r=R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Sim.Device">R</field>
+        <field name="Sim.Params">r=R</field>
+        <field name="Sim.Pins">1=+ 2=-</field>
+        <field name="Sim.Type">=</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sim.Device" value="R"/>
+      <property name="Sim.Type" value="="/>
+      <property name="Sim.Params" value="r=R"/>
+      <property name="Sim.Pins" value="1=+ 2=-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6470322d-e6c7-4f25-8487-e0ffe3eb979d</tstamps>
+    </comp>
+    <comp ref="R114">
+      <value>r=R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Sim.Device">R</field>
+        <field name="Sim.Params">r=R</field>
+        <field name="Sim.Pins">1=+ 2=-</field>
+        <field name="Sim.Type">=</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sim.Device" value="R"/>
+      <property name="Sim.Type" value="="/>
+      <property name="Sim.Params" value="r=R"/>
+      <property name="Sim.Pins" value="1=+ 2=-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>02351824-cbd2-40ae-b6d8-3ec0b80cb402</tstamps>
+    </comp>
+    <comp ref="R115">
+      <value>r=R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Sim.Device">R</field>
+        <field name="Sim.Params">r=R</field>
+        <field name="Sim.Pins">1=+ 2=-</field>
+        <field name="Sim.Type">=</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sim.Device" value="R"/>
+      <property name="Sim.Type" value="="/>
+      <property name="Sim.Params" value="r=R"/>
+      <property name="Sim.Pins" value="1=+ 2=-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6196d610-5691-4980-8294-d7e2ae905d83</tstamps>
+    </comp>
+    <comp ref="R116">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>803c33b4-d4bb-434f-8ebb-25257ad090ab</tstamps>
+    </comp>
+    <comp ref="R117">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a8aac598-e958-4fe3-9c0c-9ec66902f2a0</tstamps>
+    </comp>
+    <comp ref="R118">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>871dd93f-c80a-45a3-8812-018a86d5069c</tstamps>
+    </comp>
+    <comp ref="R119">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c245d8fe-bb70-44b3-b2a2-660c8f15f1b8</tstamps>
+    </comp>
+    <comp ref="R120">
+      <value>36</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c44b8870-7713-4b1d-9adb-735371969819</tstamps>
+    </comp>
+    <comp ref="R121">
+      <value>36</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f368ac6e-c0de-4375-bdae-cd36393f29dd</tstamps>
+    </comp>
+    <comp ref="R122">
+      <value>36</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b8dc8de0-58ff-4a29-9890-c56c6632a162</tstamps>
+    </comp>
+    <comp ref="R123">
+      <value>36</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>700e3a25-8330-4588-bc2e-9abe7c52875f</tstamps>
+    </comp>
+    <comp ref="R124">
+      <value>36</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>59270cd5-7668-47a6-9b8a-f44c57d1f5cd</tstamps>
+    </comp>
+    <comp ref="R125">
+      <value>36</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>71a886f9-f47a-4b8b-814b-eb635e4d7f2c</tstamps>
+    </comp>
+    <comp ref="R126">
+      <value>36</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2505f884-6d7c-470f-826d-b6a0d6b1aeb9</tstamps>
+    </comp>
+    <comp ref="R127">
+      <value>36</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d3a4d8fb-74e0-4af9-b69b-d8c0c0a85f42</tstamps>
+    </comp>
+    <comp ref="R128">
+      <value>r=R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Sim.Device">R</field>
+        <field name="Sim.Params">r=R</field>
+        <field name="Sim.Pins">1=+ 2=-</field>
+        <field name="Sim.Type">=</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sim.Device" value="R"/>
+      <property name="Sim.Type" value="="/>
+      <property name="Sim.Params" value="r=R"/>
+      <property name="Sim.Pins" value="1=+ 2=-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ad968e8a-18b2-40fa-8e83-4e618447bbeb</tstamps>
+    </comp>
+    <comp ref="R129">
+      <value>r=R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Sim.Device">R</field>
+        <field name="Sim.Params">r=R</field>
+        <field name="Sim.Pins">1=+ 2=-</field>
+        <field name="Sim.Type">=</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sim.Device" value="R"/>
+      <property name="Sim.Type" value="="/>
+      <property name="Sim.Params" value="r=R"/>
+      <property name="Sim.Pins" value="1=+ 2=-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9adebf05-056b-40cf-8612-cebdc10926d7</tstamps>
+    </comp>
+    <comp ref="R130">
+      <value>r=R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Sim.Device">R</field>
+        <field name="Sim.Params">r=R</field>
+        <field name="Sim.Pins">1=+ 2=-</field>
+        <field name="Sim.Type">=</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sim.Device" value="R"/>
+      <property name="Sim.Type" value="="/>
+      <property name="Sim.Params" value="r=R"/>
+      <property name="Sim.Pins" value="1=+ 2=-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c4544cc4-e0a0-4b0e-8693-cbc9315e2a13</tstamps>
+    </comp>
+    <comp ref="R131">
+      <value>r=R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Sim.Device">R</field>
+        <field name="Sim.Params">r=R</field>
+        <field name="Sim.Pins">1=+ 2=-</field>
+        <field name="Sim.Type">=</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sim.Device" value="R"/>
+      <property name="Sim.Type" value="="/>
+      <property name="Sim.Params" value="r=R"/>
+      <property name="Sim.Pins" value="1=+ 2=-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>656a06c9-c34b-4bc7-a269-315a91e21616</tstamps>
+    </comp>
+    <comp ref="R132">
+      <value>r=R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Sim.Device">R</field>
+        <field name="Sim.Params">r=R</field>
+        <field name="Sim.Pins">1=+ 2=-</field>
+        <field name="Sim.Type">=</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sim.Device" value="R"/>
+      <property name="Sim.Type" value="="/>
+      <property name="Sim.Params" value="r=R"/>
+      <property name="Sim.Pins" value="1=+ 2=-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c9b5e165-c0d8-4531-aebd-2e00cf8626d0</tstamps>
+    </comp>
+    <comp ref="R133">
+      <value>r=R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Sim.Device">R</field>
+        <field name="Sim.Params">r=R</field>
+        <field name="Sim.Pins">1=+ 2=-</field>
+        <field name="Sim.Type">=</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sim.Device" value="R"/>
+      <property name="Sim.Type" value="="/>
+      <property name="Sim.Params" value="r=R"/>
+      <property name="Sim.Pins" value="1=+ 2=-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e85ed606-82a5-4f2e-96dd-def154fcfda1</tstamps>
+    </comp>
+    <comp ref="R134">
+      <value>r=R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Sim.Device">R</field>
+        <field name="Sim.Params">r=R</field>
+        <field name="Sim.Pins">1=+ 2=-</field>
+        <field name="Sim.Type">=</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sim.Device" value="R"/>
+      <property name="Sim.Type" value="="/>
+      <property name="Sim.Params" value="r=R"/>
+      <property name="Sim.Pins" value="1=+ 2=-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9458d156-35fb-41bf-9a04-25eaaedda7ae</tstamps>
+    </comp>
+    <comp ref="R135">
+      <value>r=R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Sim.Device">R</field>
+        <field name="Sim.Params">r=R</field>
+        <field name="Sim.Pins">1=+ 2=-</field>
+        <field name="Sim.Type">=</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sim.Device" value="R"/>
+      <property name="Sim.Type" value="="/>
+      <property name="Sim.Params" value="r=R"/>
+      <property name="Sim.Pins" value="1=+ 2=-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>483b32e2-a608-495a-a584-89024a2596d7</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>KA49522</value>
+      <footprint>Package_QFP:HTQFP-64-1EP_10x10mm_P0.5mm_EP5.5x5.5mm_Mask4.4x4.4mm_ThermalVias</footprint>
+      <datasheet>https://www.nuvoton.com.cn/export/resource-files/PB_KA49522A_EN_Rev1.00.pdf</datasheet>
+      <libsource lib="Nuvoton" part="KA49522_besar" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PROYEK_BMS_NUVOTON.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>16b85d4d-6af3-45fc-97dc-1b27d9697a6d</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_01x25">
+      <description>Generic connector, single row, 01x25, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x25</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+        <pin num="16" name="Pin_16" type="passive"/>
+        <pin num="17" name="Pin_17" type="passive"/>
+        <pin num="18" name="Pin_18" type="passive"/>
+        <pin num="19" name="Pin_19" type="passive"/>
+        <pin num="20" name="Pin_20" type="passive"/>
+        <pin num="21" name="Pin_21" type="passive"/>
+        <pin num="22" name="Pin_22" type="passive"/>
+        <pin num="23" name="Pin_23" type="passive"/>
+        <pin num="24" name="Pin_24" type="passive"/>
+        <pin num="25" name="Pin_25" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Q_NMOS_GSD">
+      <description>N-MOSFET transistor, gate/source/drain</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_NMOS_GSD</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Nuvoton" part="KA49522_besar">
+      <docs>https://www.nuvoton.com.cn/export/resource-files/PB_KA49522A_EN_Rev1.00.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">KA49522</field>
+        <field name="Footprint">Package_QFP:HTQFP-64-1EP_10x10mm_P0.5mm_EP5.5x5.5mm_Mask4.4x4.4mm_ThermalVias</field>
+        <field name="Datasheet">https://www.nuvoton.com.cn/export/resource-files/PB_KA49522A_EN_Rev1.00.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="NRST" type="output"/>
+        <pin num="2" name="CVDD" type="power_in"/>
+        <pin num="3" name="TMONI1" type="input"/>
+        <pin num="4" name="TMONI2" type="input"/>
+        <pin num="5" name="TMONI3" type="input"/>
+        <pin num="6" name="TMONI4" type="input"/>
+        <pin num="7" name="TMONI5" type="input"/>
+        <pin num="8" name="SHDN" type="input"/>
+        <pin num="9" name="MODE" type="input"/>
+        <pin num="10" name="AVSS1" type="power_in"/>
+        <pin num="11" name="VDD18" type="power_out"/>
+        <pin num="12" name="REGSEL" type="input"/>
+        <pin num="13" name="REGEXT" type="output"/>
+        <pin num="14" name="VDD55" type="power_out"/>
+        <pin num="15" name="REGB" type="output"/>
+        <pin num="16" name="AVSS2" type="power_in"/>
+        <pin num="17" name="LDM" type="input"/>
+        <pin num="18" name="VPC" type="input"/>
+        <pin num="19" name="GPOH2" type="output"/>
+        <pin num="20" name="GPOH1" type="output"/>
+        <pin num="21" name="CP1" type="output"/>
+        <pin num="22" name="CN1" type="output"/>
+        <pin num="23" name="CN2" type="output"/>
+        <pin num="24" name="CP2" type="output"/>
+        <pin num="25" name="VPACK" type="power_in"/>
+        <pin num="26" name="DIS" type="output"/>
+        <pin num="27" name="CHG" type="output"/>
+        <pin num="28" name="VBAT" type="power_in"/>
+        <pin num="29" name="C22" type="input"/>
+        <pin num="30" name="C21" type="input"/>
+        <pin num="31" name="C20" type="input"/>
+        <pin num="32" name="C19" type="input"/>
+        <pin num="33" name="C18" type="input"/>
+        <pin num="34" name="C17" type="input"/>
+        <pin num="35" name="C16" type="input"/>
+        <pin num="36" name="C15" type="input"/>
+        <pin num="37" name="C14" type="input"/>
+        <pin num="38" name="C13" type="input"/>
+        <pin num="39" name="C12" type="input"/>
+        <pin num="40" name="C11" type="input"/>
+        <pin num="41" name="C10" type="input"/>
+        <pin num="42" name="C9" type="input"/>
+        <pin num="43" name="C8" type="input"/>
+        <pin num="44" name="C7" type="input"/>
+        <pin num="45" name="C6" type="input"/>
+        <pin num="46" name="C5" type="input"/>
+        <pin num="47" name="C4" type="input"/>
+        <pin num="48" name="C3" type="input"/>
+        <pin num="49" name="C2" type="input"/>
+        <pin num="50" name="C1" type="input"/>
+        <pin num="51" name="C0" type="output"/>
+        <pin num="52" name="GND" type="power_in"/>
+        <pin num="53" name="SRP" type="input"/>
+        <pin num="54" name="NC" type="no_connect"/>
+        <pin num="55" name="SRN" type="input"/>
+        <pin num="56" name="GPIO1" type="bidirectional"/>
+        <pin num="57" name="GPIO2" type="bidirectional"/>
+        <pin num="58" name="GPIO3" type="bidirectional"/>
+        <pin num="59" name="ALARM1" type="output"/>
+        <pin num="60" name="FETOFF" type="input"/>
+        <pin num="61" name="SDO" type="output"/>
+        <pin num="62" name="SDI" type="input"/>
+        <pin num="63" name="SCL" type="input"/>
+        <pin num="64" name="SEN" type="input"/>
+        <pin num="65" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="CN4_C0">
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+      <node ref="R24" pin="1" pintype="passive"/>
+    </net>
+    <net code="2" name="CN4_C1">
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="R22" pin="1" pintype="passive"/>
+    </net>
+    <net code="3" name="CN4_C2">
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+    </net>
+    <net code="4" name="CN4_C3">
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+    </net>
+    <net code="5" name="CN4_C4">
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="J1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J2" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+    </net>
+    <net code="6" name="CN4_C5">
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="J1" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="J2" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+    </net>
+    <net code="7" name="CN4_C6">
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="J1" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="J2" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+    </net>
+    <net code="8" name="CN4_C7">
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="J1" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="J2" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+    </net>
+    <net code="9" name="CN4_C8">
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="J1" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="J2" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+    </net>
+    <net code="10" name="CN4_C9">
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="J1" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="J2" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+    </net>
+    <net code="11" name="CN4_C10">
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="J1" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="J2" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+    </net>
+    <net code="12" name="CN4_C11">
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="J1" pin="13" pinfunction="Pin_13" pintype="passive"/>
+      <node ref="J2" pin="13" pinfunction="Pin_13" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+    </net>
+    <net code="13" name="CN4_C12">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="J1" pin="14" pinfunction="Pin_14" pintype="passive"/>
+      <node ref="J2" pin="14" pinfunction="Pin_14" pintype="passive"/>
+      <node ref="Q18" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+    </net>
+    <net code="14" name="CN4_C13">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="J1" pin="15" pinfunction="Pin_15" pintype="passive"/>
+      <node ref="J2" pin="15" pinfunction="Pin_15" pintype="passive"/>
+      <node ref="Q17" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R103" pin="1" pintype="passive"/>
+      <node ref="R114" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="R91" pin="1" pintype="passive"/>
+      <node ref="R97" pin="1" pintype="passive"/>
+    </net>
+    <net code="15" name="CN4_C14">
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="J1" pin="16" pinfunction="Pin_16" pintype="passive"/>
+      <node ref="J2" pin="16" pinfunction="Pin_16" pintype="passive"/>
+      <node ref="Q16" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R102" pin="1" pintype="passive"/>
+      <node ref="R112" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="R90" pin="1" pintype="passive"/>
+      <node ref="R96" pin="1" pintype="passive"/>
+    </net>
+    <net code="16" name="CN4_C15">
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="J1" pin="17" pinfunction="Pin_17" pintype="passive"/>
+      <node ref="J2" pin="17" pinfunction="Pin_17" pintype="passive"/>
+      <node ref="Q15" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R101" pin="1" pintype="passive"/>
+      <node ref="R110" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="R89" pin="1" pintype="passive"/>
+      <node ref="R95" pin="1" pintype="passive"/>
+    </net>
+    <net code="17" name="CN4_C16">
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="J1" pin="18" pinfunction="Pin_18" pintype="passive"/>
+      <node ref="J2" pin="18" pinfunction="Pin_18" pintype="passive"/>
+      <node ref="Q14" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R100" pin="1" pintype="passive"/>
+      <node ref="R108" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="R88" pin="1" pintype="passive"/>
+      <node ref="R94" pin="1" pintype="passive"/>
+    </net>
+    <net code="18" name="CN4_C17">
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="J1" pin="19" pinfunction="Pin_19" pintype="passive"/>
+      <node ref="J2" pin="19" pinfunction="Pin_19" pintype="passive"/>
+      <node ref="Q13" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R106" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R87" pin="1" pintype="passive"/>
+      <node ref="R93" pin="1" pintype="passive"/>
+      <node ref="R99" pin="1" pintype="passive"/>
+    </net>
+    <net code="19" name="CN4_C18">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="J1" pin="20" pinfunction="Pin_20" pintype="passive"/>
+      <node ref="J2" pin="20" pinfunction="Pin_20" pintype="passive"/>
+      <node ref="R104" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R86" pin="1" pintype="passive"/>
+      <node ref="R92" pin="1" pintype="passive"/>
+      <node ref="R98" pin="1" pintype="passive"/>
+    </net>
+    <net code="20" name="CN4_C19">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="J1" pin="21" pinfunction="Pin_21" pintype="passive"/>
+      <node ref="J2" pin="21" pinfunction="Pin_21" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="21" name="CN4_C20">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="J1" pin="22" pinfunction="Pin_22" pintype="passive"/>
+      <node ref="J2" pin="22" pinfunction="Pin_22" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="22" name="CN4_C21">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="J1" pin="23" pinfunction="Pin_23" pintype="passive"/>
+      <node ref="J2" pin="23" pinfunction="Pin_23" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="23" name="CN4_C22">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="J1" pin="24" pinfunction="Pin_24" pintype="passive"/>
+      <node ref="J2" pin="24" pinfunction="Pin_24" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R23" pin="2" pintype="passive"/>
+    </net>
+    <net code="24" name="GNDA">
+      <node ref="C29" pin="2" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R24" pin="2" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(C23-Pad1)">
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="R43" pin="1" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(C23-Pad2)">
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="R44" pin="1" pintype="passive"/>
+      <node ref="R45" pin="1" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(C24-Pad2)">
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="C25" pin="1" pintype="passive"/>
+      <node ref="R46" pin="1" pintype="passive"/>
+      <node ref="R47" pin="1" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(C25-Pad2)">
+      <node ref="C25" pin="2" pintype="passive"/>
+      <node ref="C26" pin="1" pintype="passive"/>
+      <node ref="R48" pin="1" pintype="passive"/>
+      <node ref="R49" pin="1" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(C26-Pad2)">
+      <node ref="C26" pin="2" pintype="passive"/>
+      <node ref="C27" pin="1" pintype="passive"/>
+      <node ref="R50" pin="1" pintype="passive"/>
+      <node ref="R51" pin="1" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(C27-Pad2)">
+      <node ref="C27" pin="2" pintype="passive"/>
+      <node ref="C28" pin="1" pintype="passive"/>
+      <node ref="R52" pin="1" pintype="passive"/>
+      <node ref="R53" pin="1" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(C28-Pad2)">
+      <node ref="C28" pin="2" pintype="passive"/>
+      <node ref="C29" pin="1" pintype="passive"/>
+      <node ref="R54" pin="1" pintype="passive"/>
+      <node ref="R55" pin="1" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(C30-Pad1)">
+      <node ref="C30" pin="1" pintype="passive"/>
+      <node ref="R74" pin="1" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(C30-Pad2)">
+      <node ref="C30" pin="2" pintype="passive"/>
+      <node ref="C31" pin="1" pintype="passive"/>
+      <node ref="R75" pin="1" pintype="passive"/>
+      <node ref="R76" pin="1" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(C31-Pad2)">
+      <node ref="C31" pin="2" pintype="passive"/>
+      <node ref="C32" pin="1" pintype="passive"/>
+      <node ref="R77" pin="1" pintype="passive"/>
+      <node ref="R78" pin="1" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(C32-Pad2)">
+      <node ref="C32" pin="2" pintype="passive"/>
+      <node ref="C33" pin="1" pintype="passive"/>
+      <node ref="R79" pin="1" pintype="passive"/>
+      <node ref="R80" pin="1" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(C33-Pad2)">
+      <node ref="C33" pin="2" pintype="passive"/>
+      <node ref="C34" pin="1" pintype="passive"/>
+      <node ref="R81" pin="1" pintype="passive"/>
+      <node ref="R82" pin="1" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(C34-Pad2)">
+      <node ref="C34" pin="2" pintype="passive"/>
+      <node ref="C35" pin="1" pintype="passive"/>
+      <node ref="R83" pin="1" pintype="passive"/>
+      <node ref="R84" pin="1" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(C35-Pad2)">
+      <node ref="C35" pin="2" pintype="passive"/>
+      <node ref="R85" pin="1" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(C36-Pad1)">
+      <node ref="C36" pin="1" pintype="passive"/>
+      <node ref="R104" pin="1" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(C36-Pad2)">
+      <node ref="C36" pin="2" pintype="passive"/>
+      <node ref="C37" pin="1" pintype="passive"/>
+      <node ref="R105" pin="1" pintype="passive"/>
+      <node ref="R106" pin="1" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(C37-Pad2)">
+      <node ref="C37" pin="2" pintype="passive"/>
+      <node ref="C38" pin="1" pintype="passive"/>
+      <node ref="R107" pin="1" pintype="passive"/>
+      <node ref="R108" pin="1" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(C38-Pad2)">
+      <node ref="C38" pin="2" pintype="passive"/>
+      <node ref="C39" pin="1" pintype="passive"/>
+      <node ref="R109" pin="1" pintype="passive"/>
+      <node ref="R110" pin="1" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(C39-Pad2)">
+      <node ref="C39" pin="2" pintype="passive"/>
+      <node ref="C40" pin="1" pintype="passive"/>
+      <node ref="R111" pin="1" pintype="passive"/>
+      <node ref="R112" pin="1" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(C40-Pad2)">
+      <node ref="C40" pin="2" pintype="passive"/>
+      <node ref="C41" pin="1" pintype="passive"/>
+      <node ref="R113" pin="1" pintype="passive"/>
+      <node ref="R114" pin="1" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(C41-Pad2)">
+      <node ref="C41" pin="2" pintype="passive"/>
+      <node ref="R115" pin="1" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(C42-Pad1)">
+      <node ref="C42" pin="1" pintype="passive"/>
+      <node ref="R128" pin="1" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(C42-Pad2)">
+      <node ref="C42" pin="2" pintype="passive"/>
+      <node ref="C43" pin="1" pintype="passive"/>
+      <node ref="R129" pin="1" pintype="passive"/>
+      <node ref="R130" pin="1" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(C43-Pad2)">
+      <node ref="C43" pin="2" pintype="passive"/>
+      <node ref="C44" pin="1" pintype="passive"/>
+      <node ref="R131" pin="1" pintype="passive"/>
+      <node ref="R132" pin="1" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(C44-Pad2)">
+      <node ref="C44" pin="2" pintype="passive"/>
+      <node ref="C45" pin="1" pintype="passive"/>
+      <node ref="R133" pin="1" pintype="passive"/>
+      <node ref="R134" pin="1" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(C45-Pad2)">
+      <node ref="C45" pin="2" pintype="passive"/>
+      <node ref="R135" pin="1" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(D1-A)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R25" pin="2" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(D1-K)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R31" pin="2" pintype="passive"/>
+      <node ref="R37" pin="2" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(D2-A)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R26" pin="2" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(D2-K)">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R32" pin="2" pintype="passive"/>
+      <node ref="R38" pin="2" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(D3-A)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R27" pin="2" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(D3-K)">
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q3" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R33" pin="2" pintype="passive"/>
+      <node ref="R39" pin="2" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(D4-A)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R28" pin="2" pintype="passive"/>
+    </net>
+    <net code="58" name="Net-(D4-K)">
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q4" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R34" pin="2" pintype="passive"/>
+      <node ref="R40" pin="2" pintype="passive"/>
+    </net>
+    <net code="59" name="Net-(D5-A)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R29" pin="2" pintype="passive"/>
+    </net>
+    <net code="60" name="Net-(D5-K)">
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q5" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R35" pin="2" pintype="passive"/>
+      <node ref="R41" pin="2" pintype="passive"/>
+    </net>
+    <net code="61" name="Net-(D6-A)">
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R30" pin="2" pintype="passive"/>
+    </net>
+    <net code="62" name="Net-(D6-K)">
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q6" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R36" pin="2" pintype="passive"/>
+      <node ref="R42" pin="2" pintype="passive"/>
+    </net>
+    <net code="63" name="Net-(D7-A)">
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R56" pin="2" pintype="passive"/>
+    </net>
+    <net code="64" name="Net-(D7-K)">
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q7" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R62" pin="2" pintype="passive"/>
+      <node ref="R68" pin="2" pintype="passive"/>
+    </net>
+    <net code="65" name="Net-(D8-A)">
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R57" pin="2" pintype="passive"/>
+    </net>
+    <net code="66" name="Net-(D8-K)">
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q8" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R63" pin="2" pintype="passive"/>
+      <node ref="R69" pin="2" pintype="passive"/>
+    </net>
+    <net code="67" name="Net-(D9-A)">
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R58" pin="2" pintype="passive"/>
+    </net>
+    <net code="68" name="Net-(D9-K)">
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q9" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R64" pin="2" pintype="passive"/>
+      <node ref="R70" pin="2" pintype="passive"/>
+    </net>
+    <net code="69" name="Net-(D10-A)">
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R59" pin="2" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(D10-K)">
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q10" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R65" pin="2" pintype="passive"/>
+      <node ref="R71" pin="2" pintype="passive"/>
+    </net>
+    <net code="71" name="Net-(D11-A)">
+      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R60" pin="2" pintype="passive"/>
+    </net>
+    <net code="72" name="Net-(D11-K)">
+      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q11" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R66" pin="2" pintype="passive"/>
+      <node ref="R72" pin="2" pintype="passive"/>
+    </net>
+    <net code="73" name="Net-(D12-A)">
+      <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R61" pin="2" pintype="passive"/>
+    </net>
+    <net code="74" name="Net-(D12-K)">
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q12" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R67" pin="2" pintype="passive"/>
+      <node ref="R73" pin="2" pintype="passive"/>
+    </net>
+    <net code="75" name="Net-(D13-A)">
+      <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R86" pin="2" pintype="passive"/>
+    </net>
+    <net code="76" name="Net-(D13-K)">
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q13" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R92" pin="2" pintype="passive"/>
+      <node ref="R98" pin="2" pintype="passive"/>
+    </net>
+    <net code="77" name="Net-(D14-A)">
+      <node ref="D14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R87" pin="2" pintype="passive"/>
+    </net>
+    <net code="78" name="Net-(D14-K)">
+      <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q14" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R93" pin="2" pintype="passive"/>
+      <node ref="R99" pin="2" pintype="passive"/>
+    </net>
+    <net code="79" name="Net-(D15-A)">
+      <node ref="D15" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R88" pin="2" pintype="passive"/>
+    </net>
+    <net code="80" name="Net-(D15-K)">
+      <node ref="D15" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q15" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R100" pin="2" pintype="passive"/>
+      <node ref="R94" pin="2" pintype="passive"/>
+    </net>
+    <net code="81" name="Net-(D16-A)">
+      <node ref="D16" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R89" pin="2" pintype="passive"/>
+    </net>
+    <net code="82" name="Net-(D16-K)">
+      <node ref="D16" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q16" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R101" pin="2" pintype="passive"/>
+      <node ref="R95" pin="2" pintype="passive"/>
+    </net>
+    <net code="83" name="Net-(D17-A)">
+      <node ref="D17" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R90" pin="2" pintype="passive"/>
+    </net>
+    <net code="84" name="Net-(D17-K)">
+      <node ref="D17" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q17" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R102" pin="2" pintype="passive"/>
+      <node ref="R96" pin="2" pintype="passive"/>
+    </net>
+    <net code="85" name="Net-(D18-A)">
+      <node ref="D18" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R91" pin="2" pintype="passive"/>
+    </net>
+    <net code="86" name="Net-(D18-K)">
+      <node ref="D18" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q18" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R103" pin="2" pintype="passive"/>
+      <node ref="R97" pin="2" pintype="passive"/>
+    </net>
+    <net code="87" name="Net-(D19-A)">
+      <node ref="D19" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R116" pin="2" pintype="passive"/>
+    </net>
+    <net code="88" name="Net-(D19-K)">
+      <node ref="D19" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q19" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R120" pin="2" pintype="passive"/>
+      <node ref="R124" pin="2" pintype="passive"/>
+    </net>
+    <net code="89" name="Net-(D20-A)">
+      <node ref="D20" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R117" pin="2" pintype="passive"/>
+    </net>
+    <net code="90" name="Net-(D20-K)">
+      <node ref="D20" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q20" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R121" pin="2" pintype="passive"/>
+      <node ref="R125" pin="2" pintype="passive"/>
+    </net>
+    <net code="91" name="Net-(D21-A)">
+      <node ref="D21" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R118" pin="2" pintype="passive"/>
+    </net>
+    <net code="92" name="Net-(D21-K)">
+      <node ref="D21" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q21" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R122" pin="2" pintype="passive"/>
+      <node ref="R126" pin="2" pintype="passive"/>
+    </net>
+    <net code="93" name="Net-(D22-A)">
+      <node ref="D22" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R119" pin="2" pintype="passive"/>
+    </net>
+    <net code="94" name="Net-(D22-K)">
+      <node ref="D22" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q22" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R123" pin="2" pintype="passive"/>
+      <node ref="R127" pin="2" pintype="passive"/>
+    </net>
+    <net code="95" name="Net-(Q1-G)">
+      <node ref="Q1" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R44" pin="2" pintype="passive"/>
+    </net>
+    <net code="96" name="Net-(Q1-S)">
+      <node ref="Q1" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R26" pin="1" pintype="passive"/>
+      <node ref="R32" pin="1" pintype="passive"/>
+      <node ref="R38" pin="1" pintype="passive"/>
+      <node ref="R45" pin="2" pintype="passive"/>
+    </net>
+    <net code="97" name="Net-(Q2-G)">
+      <node ref="Q2" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R46" pin="2" pintype="passive"/>
+    </net>
+    <net code="98" name="Net-(Q2-S)">
+      <node ref="Q2" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R27" pin="1" pintype="passive"/>
+      <node ref="R33" pin="1" pintype="passive"/>
+      <node ref="R39" pin="1" pintype="passive"/>
+      <node ref="R47" pin="2" pintype="passive"/>
+    </net>
+    <net code="99" name="Net-(Q3-G)">
+      <node ref="Q3" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R48" pin="2" pintype="passive"/>
+    </net>
+    <net code="100" name="Net-(Q3-S)">
+      <node ref="Q3" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R28" pin="1" pintype="passive"/>
+      <node ref="R34" pin="1" pintype="passive"/>
+      <node ref="R40" pin="1" pintype="passive"/>
+      <node ref="R49" pin="2" pintype="passive"/>
+    </net>
+    <net code="101" name="Net-(Q4-G)">
+      <node ref="Q4" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R50" pin="2" pintype="passive"/>
+    </net>
+    <net code="102" name="Net-(Q4-S)">
+      <node ref="Q4" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R29" pin="1" pintype="passive"/>
+      <node ref="R35" pin="1" pintype="passive"/>
+      <node ref="R41" pin="1" pintype="passive"/>
+      <node ref="R51" pin="2" pintype="passive"/>
+    </net>
+    <net code="103" name="Net-(Q5-G)">
+      <node ref="Q5" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R52" pin="2" pintype="passive"/>
+    </net>
+    <net code="104" name="Net-(Q5-S)">
+      <node ref="Q5" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R30" pin="1" pintype="passive"/>
+      <node ref="R36" pin="1" pintype="passive"/>
+      <node ref="R42" pin="1" pintype="passive"/>
+      <node ref="R53" pin="2" pintype="passive"/>
+    </net>
+    <net code="105" name="Net-(Q6-G)">
+      <node ref="Q6" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R54" pin="2" pintype="passive"/>
+    </net>
+    <net code="106" name="Net-(Q6-S)">
+      <node ref="Q6" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R55" pin="2" pintype="passive"/>
+    </net>
+    <net code="107" name="Net-(Q7-G)">
+      <node ref="Q7" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R75" pin="2" pintype="passive"/>
+    </net>
+    <net code="108" name="Net-(Q7-S)">
+      <node ref="Q7" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R57" pin="1" pintype="passive"/>
+      <node ref="R63" pin="1" pintype="passive"/>
+      <node ref="R69" pin="1" pintype="passive"/>
+      <node ref="R76" pin="2" pintype="passive"/>
+    </net>
+    <net code="109" name="Net-(Q8-G)">
+      <node ref="Q8" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R77" pin="2" pintype="passive"/>
+    </net>
+    <net code="110" name="Net-(Q8-S)">
+      <node ref="Q8" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R58" pin="1" pintype="passive"/>
+      <node ref="R64" pin="1" pintype="passive"/>
+      <node ref="R70" pin="1" pintype="passive"/>
+      <node ref="R78" pin="2" pintype="passive"/>
+    </net>
+    <net code="111" name="Net-(Q9-G)">
+      <node ref="Q9" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R79" pin="2" pintype="passive"/>
+    </net>
+    <net code="112" name="Net-(Q9-S)">
+      <node ref="Q9" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R59" pin="1" pintype="passive"/>
+      <node ref="R65" pin="1" pintype="passive"/>
+      <node ref="R71" pin="1" pintype="passive"/>
+      <node ref="R80" pin="2" pintype="passive"/>
+    </net>
+    <net code="113" name="Net-(Q10-G)">
+      <node ref="Q10" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R81" pin="2" pintype="passive"/>
+    </net>
+    <net code="114" name="Net-(Q10-S)">
+      <node ref="Q10" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R60" pin="1" pintype="passive"/>
+      <node ref="R66" pin="1" pintype="passive"/>
+      <node ref="R72" pin="1" pintype="passive"/>
+      <node ref="R82" pin="2" pintype="passive"/>
+    </net>
+    <net code="115" name="Net-(Q11-G)">
+      <node ref="Q11" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R83" pin="2" pintype="passive"/>
+    </net>
+    <net code="116" name="Net-(Q11-S)">
+      <node ref="Q11" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R67" pin="1" pintype="passive"/>
+      <node ref="R73" pin="1" pintype="passive"/>
+      <node ref="R84" pin="2" pintype="passive"/>
+    </net>
+    <net code="117" name="Net-(Q12-G)">
+      <node ref="Q12" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R85" pin="2" pintype="passive"/>
+    </net>
+    <net code="118" name="Net-(Q13-G)">
+      <node ref="Q13" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R105" pin="2" pintype="passive"/>
+    </net>
+    <net code="119" name="Net-(Q14-G)">
+      <node ref="Q14" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R107" pin="2" pintype="passive"/>
+    </net>
+    <net code="120" name="Net-(Q15-G)">
+      <node ref="Q15" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R109" pin="2" pintype="passive"/>
+    </net>
+    <net code="121" name="Net-(Q16-G)">
+      <node ref="Q16" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R111" pin="2" pintype="passive"/>
+    </net>
+    <net code="122" name="Net-(Q17-G)">
+      <node ref="Q17" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R113" pin="2" pintype="passive"/>
+    </net>
+    <net code="123" name="Net-(Q18-G)">
+      <node ref="Q18" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R115" pin="2" pintype="passive"/>
+    </net>
+    <net code="124" name="Net-(Q19-G)">
+      <node ref="Q19" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R129" pin="2" pintype="passive"/>
+    </net>
+    <net code="125" name="Net-(Q19-S)">
+      <node ref="Q19" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R117" pin="1" pintype="passive"/>
+      <node ref="R121" pin="1" pintype="passive"/>
+      <node ref="R125" pin="1" pintype="passive"/>
+      <node ref="R130" pin="2" pintype="passive"/>
+    </net>
+    <net code="126" name="Net-(Q20-G)">
+      <node ref="Q20" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R131" pin="2" pintype="passive"/>
+    </net>
+    <net code="127" name="Net-(Q20-S)">
+      <node ref="Q20" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R118" pin="1" pintype="passive"/>
+      <node ref="R122" pin="1" pintype="passive"/>
+      <node ref="R126" pin="1" pintype="passive"/>
+      <node ref="R132" pin="2" pintype="passive"/>
+    </net>
+    <net code="128" name="Net-(Q21-G)">
+      <node ref="Q21" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R133" pin="2" pintype="passive"/>
+    </net>
+    <net code="129" name="Net-(Q21-S)">
+      <node ref="Q21" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R119" pin="1" pintype="passive"/>
+      <node ref="R123" pin="1" pintype="passive"/>
+      <node ref="R127" pin="1" pintype="passive"/>
+      <node ref="R134" pin="2" pintype="passive"/>
+    </net>
+    <net code="130" name="Net-(Q22-G)">
+      <node ref="Q22" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R135" pin="2" pintype="passive"/>
+    </net>
+    <net code="131" name="Net-(R25-Pad1)">
+      <node ref="R25" pin="1" pintype="passive"/>
+      <node ref="R31" pin="1" pintype="passive"/>
+      <node ref="R37" pin="1" pintype="passive"/>
+      <node ref="R43" pin="2" pintype="passive"/>
+    </net>
+    <net code="132" name="Net-(R56-Pad1)">
+      <node ref="R56" pin="1" pintype="passive"/>
+      <node ref="R62" pin="1" pintype="passive"/>
+      <node ref="R68" pin="1" pintype="passive"/>
+      <node ref="R74" pin="2" pintype="passive"/>
+    </net>
+    <net code="133" name="Net-(R116-Pad1)">
+      <node ref="R116" pin="1" pintype="passive"/>
+      <node ref="R120" pin="1" pintype="passive"/>
+      <node ref="R124" pin="1" pintype="passive"/>
+      <node ref="R128" pin="2" pintype="passive"/>
+    </net>
+    <net code="134" name="VDC">
+      <node ref="J1" pin="25" pinfunction="Pin_25" pintype="passive"/>
+      <node ref="J2" pin="25" pinfunction="Pin_25" pintype="passive"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+    </net>
+    <net code="135" name="unconnected-(Q12-S-Pad2)">
+      <node ref="Q12" pin="2" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="136" name="unconnected-(Q22-S-Pad2)">
+      <node ref="Q22" pin="2" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="137" name="unconnected-(R61-Pad1)">
+      <node ref="R61" pin="1" pintype="passive"/>
+    </net>
+    <net code="138" name="unconnected-(U1-ALARM1-Pad59)">
+      <node ref="U1" pin="59" pinfunction="ALARM1" pintype="output"/>
+    </net>
+    <net code="139" name="unconnected-(U1-AVSS1-Pad10)">
+      <node ref="U1" pin="10" pinfunction="AVSS1" pintype="power_in"/>
+    </net>
+    <net code="140" name="unconnected-(U1-AVSS2-Pad16)">
+      <node ref="U1" pin="16" pinfunction="AVSS2" pintype="power_in"/>
+    </net>
+    <net code="141" name="unconnected-(U1-C0-Pad51)">
+      <node ref="U1" pin="51" pinfunction="C0" pintype="output"/>
+    </net>
+    <net code="142" name="unconnected-(U1-C1-Pad50)">
+      <node ref="U1" pin="50" pinfunction="C1" pintype="input"/>
+    </net>
+    <net code="143" name="unconnected-(U1-C2-Pad49)">
+      <node ref="U1" pin="49" pinfunction="C2" pintype="input"/>
+    </net>
+    <net code="144" name="unconnected-(U1-C3-Pad48)">
+      <node ref="U1" pin="48" pinfunction="C3" pintype="input"/>
+    </net>
+    <net code="145" name="unconnected-(U1-C4-Pad47)">
+      <node ref="U1" pin="47" pinfunction="C4" pintype="input"/>
+    </net>
+    <net code="146" name="unconnected-(U1-C5-Pad46)">
+      <node ref="U1" pin="46" pinfunction="C5" pintype="input"/>
+    </net>
+    <net code="147" name="unconnected-(U1-C6-Pad45)">
+      <node ref="U1" pin="45" pinfunction="C6" pintype="input"/>
+    </net>
+    <net code="148" name="unconnected-(U1-C7-Pad44)">
+      <node ref="U1" pin="44" pinfunction="C7" pintype="input"/>
+    </net>
+    <net code="149" name="unconnected-(U1-C8-Pad43)">
+      <node ref="U1" pin="43" pinfunction="C8" pintype="input"/>
+    </net>
+    <net code="150" name="unconnected-(U1-C9-Pad42)">
+      <node ref="U1" pin="42" pinfunction="C9" pintype="input"/>
+    </net>
+    <net code="151" name="unconnected-(U1-C10-Pad41)">
+      <node ref="U1" pin="41" pinfunction="C10" pintype="input"/>
+    </net>
+    <net code="152" name="unconnected-(U1-C11-Pad40)">
+      <node ref="U1" pin="40" pinfunction="C11" pintype="input"/>
+    </net>
+    <net code="153" name="unconnected-(U1-C12-Pad39)">
+      <node ref="U1" pin="39" pinfunction="C12" pintype="input"/>
+    </net>
+    <net code="154" name="unconnected-(U1-C13-Pad38)">
+      <node ref="U1" pin="38" pinfunction="C13" pintype="input"/>
+    </net>
+    <net code="155" name="unconnected-(U1-C14-Pad37)">
+      <node ref="U1" pin="37" pinfunction="C14" pintype="input"/>
+    </net>
+    <net code="156" name="unconnected-(U1-C15-Pad36)">
+      <node ref="U1" pin="36" pinfunction="C15" pintype="input"/>
+    </net>
+    <net code="157" name="unconnected-(U1-C16-Pad35)">
+      <node ref="U1" pin="35" pinfunction="C16" pintype="input"/>
+    </net>
+    <net code="158" name="unconnected-(U1-C17-Pad34)">
+      <node ref="U1" pin="34" pinfunction="C17" pintype="input"/>
+    </net>
+    <net code="159" name="unconnected-(U1-C18-Pad33)">
+      <node ref="U1" pin="33" pinfunction="C18" pintype="input"/>
+    </net>
+    <net code="160" name="unconnected-(U1-C19-Pad32)">
+      <node ref="U1" pin="32" pinfunction="C19" pintype="input"/>
+    </net>
+    <net code="161" name="unconnected-(U1-C20-Pad31)">
+      <node ref="U1" pin="31" pinfunction="C20" pintype="input"/>
+    </net>
+    <net code="162" name="unconnected-(U1-C21-Pad30)">
+      <node ref="U1" pin="30" pinfunction="C21" pintype="input"/>
+    </net>
+    <net code="163" name="unconnected-(U1-C22-Pad29)">
+      <node ref="U1" pin="29" pinfunction="C22" pintype="input"/>
+    </net>
+    <net code="164" name="unconnected-(U1-CHG-Pad27)">
+      <node ref="U1" pin="27" pinfunction="CHG" pintype="output"/>
+    </net>
+    <net code="165" name="unconnected-(U1-CN1-Pad22)">
+      <node ref="U1" pin="22" pinfunction="CN1" pintype="output"/>
+    </net>
+    <net code="166" name="unconnected-(U1-CN2-Pad23)">
+      <node ref="U1" pin="23" pinfunction="CN2" pintype="output"/>
+    </net>
+    <net code="167" name="unconnected-(U1-CP1-Pad21)">
+      <node ref="U1" pin="21" pinfunction="CP1" pintype="output"/>
+    </net>
+    <net code="168" name="unconnected-(U1-CP2-Pad24)">
+      <node ref="U1" pin="24" pinfunction="CP2" pintype="output"/>
+    </net>
+    <net code="169" name="unconnected-(U1-CVDD-Pad2)">
+      <node ref="U1" pin="2" pinfunction="CVDD" pintype="power_in"/>
+    </net>
+    <net code="170" name="unconnected-(U1-DIS-Pad26)">
+      <node ref="U1" pin="26" pinfunction="DIS" pintype="output"/>
+    </net>
+    <net code="171" name="unconnected-(U1-FETOFF-Pad60)">
+      <node ref="U1" pin="60" pinfunction="FETOFF" pintype="input"/>
+    </net>
+    <net code="172" name="unconnected-(U1-GND-Pad52)">
+      <node ref="U1" pin="52" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="173" name="unconnected-(U1-GND-Pad65)">
+      <node ref="U1" pin="65" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="174" name="unconnected-(U1-GPIO1-Pad56)">
+      <node ref="U1" pin="56" pinfunction="GPIO1" pintype="bidirectional"/>
+    </net>
+    <net code="175" name="unconnected-(U1-GPIO2-Pad57)">
+      <node ref="U1" pin="57" pinfunction="GPIO2" pintype="bidirectional"/>
+    </net>
+    <net code="176" name="unconnected-(U1-GPIO3-Pad58)">
+      <node ref="U1" pin="58" pinfunction="GPIO3" pintype="bidirectional"/>
+    </net>
+    <net code="177" name="unconnected-(U1-GPOH1-Pad20)">
+      <node ref="U1" pin="20" pinfunction="GPOH1" pintype="output"/>
+    </net>
+    <net code="178" name="unconnected-(U1-GPOH2-Pad19)">
+      <node ref="U1" pin="19" pinfunction="GPOH2" pintype="output"/>
+    </net>
+    <net code="179" name="unconnected-(U1-LDM-Pad17)">
+      <node ref="U1" pin="17" pinfunction="LDM" pintype="input"/>
+    </net>
+    <net code="180" name="unconnected-(U1-MODE-Pad9)">
+      <node ref="U1" pin="9" pinfunction="MODE" pintype="input"/>
+    </net>
+    <net code="181" name="unconnected-(U1-NC-Pad54)">
+      <node ref="U1" pin="54" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="182" name="unconnected-(U1-NRST-Pad1)">
+      <node ref="U1" pin="1" pinfunction="NRST" pintype="output"/>
+    </net>
+    <net code="183" name="unconnected-(U1-REGB-Pad15)">
+      <node ref="U1" pin="15" pinfunction="REGB" pintype="output"/>
+    </net>
+    <net code="184" name="unconnected-(U1-REGEXT-Pad13)">
+      <node ref="U1" pin="13" pinfunction="REGEXT" pintype="output"/>
+    </net>
+    <net code="185" name="unconnected-(U1-REGSEL-Pad12)">
+      <node ref="U1" pin="12" pinfunction="REGSEL" pintype="input"/>
+    </net>
+    <net code="186" name="unconnected-(U1-SCL-Pad63)">
+      <node ref="U1" pin="63" pinfunction="SCL" pintype="input"/>
+    </net>
+    <net code="187" name="unconnected-(U1-SDI-Pad62)">
+      <node ref="U1" pin="62" pinfunction="SDI" pintype="input"/>
+    </net>
+    <net code="188" name="unconnected-(U1-SDO-Pad61)">
+      <node ref="U1" pin="61" pinfunction="SDO" pintype="output"/>
+    </net>
+    <net code="189" name="unconnected-(U1-SEN-Pad64)">
+      <node ref="U1" pin="64" pinfunction="SEN" pintype="input"/>
+    </net>
+    <net code="190" name="unconnected-(U1-SHDN-Pad8)">
+      <node ref="U1" pin="8" pinfunction="SHDN" pintype="input"/>
+    </net>
+    <net code="191" name="unconnected-(U1-SRN-Pad55)">
+      <node ref="U1" pin="55" pinfunction="SRN" pintype="input"/>
+    </net>
+    <net code="192" name="unconnected-(U1-SRP-Pad53)">
+      <node ref="U1" pin="53" pinfunction="SRP" pintype="input"/>
+    </net>
+    <net code="193" name="unconnected-(U1-TMONI1-Pad3)">
+      <node ref="U1" pin="3" pinfunction="TMONI1" pintype="input"/>
+    </net>
+    <net code="194" name="unconnected-(U1-TMONI2-Pad4)">
+      <node ref="U1" pin="4" pinfunction="TMONI2" pintype="input"/>
+    </net>
+    <net code="195" name="unconnected-(U1-TMONI3-Pad5)">
+      <node ref="U1" pin="5" pinfunction="TMONI3" pintype="input"/>
+    </net>
+    <net code="196" name="unconnected-(U1-TMONI4-Pad6)">
+      <node ref="U1" pin="6" pinfunction="TMONI4" pintype="input"/>
+    </net>
+    <net code="197" name="unconnected-(U1-TMONI5-Pad7)">
+      <node ref="U1" pin="7" pinfunction="TMONI5" pintype="input"/>
+    </net>
+    <net code="198" name="unconnected-(U1-VBAT-Pad28)">
+      <node ref="U1" pin="28" pinfunction="VBAT" pintype="power_in"/>
+    </net>
+    <net code="199" name="unconnected-(U1-VDD18-Pad11)">
+      <node ref="U1" pin="11" pinfunction="VDD18" pintype="power_out"/>
+    </net>
+    <net code="200" name="unconnected-(U1-VDD55-Pad14)">
+      <node ref="U1" pin="14" pinfunction="VDD55" pintype="power_out"/>
+    </net>
+    <net code="201" name="unconnected-(U1-VPACK-Pad25)">
+      <node ref="U1" pin="25" pinfunction="VPACK" pintype="power_in"/>
+    </net>
+    <net code="202" name="unconnected-(U1-VPC-Pad18)">
+      <node ref="U1" pin="18" pinfunction="VPC" pintype="input"/>
+    </net>
+  </nets>
+</export>
